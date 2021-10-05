@@ -10,4 +10,5 @@
 
 generate_seeds <- function(nr_of_img) {
   seeds <- sample(1:10000, nr_of_img)
+  a<-c(1,2)
 }
