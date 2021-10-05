@@ -9,6 +9,6 @@
 #' generate_seeds(3) #creates the seeds for three images
 
 generate_seeds <- function(nr_of_img) {
-  seeds <- sample(1:10000, nr_of_img)
+  seeds <- sample(1:100000, nr_of_img)
   a<-c(1,2)
 }
