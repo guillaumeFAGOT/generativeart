@@ -15,4 +15,6 @@ generate_filename <- function(seed, filetype) {
   # Je mets un commentaire different pour voir si je le recupere bien.
   # JE VEUX FAIRE UNE MODIF EN MAJUSCULE
   # TEST
+  # j ajoute un calcul complexe
+  R <- rnorm(100,sd=5,mean=4)
 }
