@@ -17,4 +17,5 @@ generate_filename <- function(seed, filetype) {
   # TEST
   # j ajoute un calcul complexe
   R <- rnorm(100,sd=5,mean=4)
+  # encore un commentaire
 }
