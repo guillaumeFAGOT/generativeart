@@ -13,6 +13,7 @@ generate_seeds <- function(nr_of_img) {
 
   seeds <- sample(1:10000, nr_of_img)
   # un commentaire fichier Generation de la clef alea
+  # Ajout d un commentaire local
 
 
 }
