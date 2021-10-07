@@ -9,11 +9,9 @@
 #' generate_seeds(3) #creates the seeds for three images
 
 generate_seeds <- function(nr_of_img) {
-<<<<<<< HEAD
+
 
   seeds <- sample(1:10000, nr_of_img)
 
-=======
-  seeds <- sample(1:10000, nr_of_img)
->>>>>>> b046b1b34a4258875cc157e70f6cf1bc0e4aa9c3
+
 }
