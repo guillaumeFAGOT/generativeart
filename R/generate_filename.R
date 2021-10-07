@@ -12,4 +12,5 @@
 
 generate_filename <- function(seed, filetype) {
   file_name <- paste0(format(Sys.time(), "%Y-%m-%d-%H-%M"), "_seed_", seed, ".", filetype)
+  # Je mets un commentaire different pour voir si je le recupere bien.
 }
